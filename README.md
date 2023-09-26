@@ -1,7 +1,7 @@
 # Netflix Content Exploratory Data Analysis (EDA)
 
 ## Introduction:
-This project is a comprehensive exploration of Netflix's vast content library. With the entertainment industry rapidly evolving, understanding patterns in content creation can offer valuable insights for producers, marketers, and enthusiasts alike.
+This project is a comprehensive exploration of Netflix's vast content library. With the entertainment industry rapidly evolving, understanding patterns in content creation can offer valuable insights for producers and enthusiasts alike.
 
 ## Key Findings:
 
